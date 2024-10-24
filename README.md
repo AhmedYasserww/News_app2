@@ -1,1 +1,1 @@
-# News_app2
+This Simple mobile application designed to fetch the latest news articles from various categories such as technology, sports, health, and entertainment. The app integrates with a news API to pull real-time data and displays articles in a clean
